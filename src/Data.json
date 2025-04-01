@@ -1,0 +1,373 @@
+{
+    "technologies": [
+      {
+        "name": ".Net Core",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Active Directory",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Adobe Captivate",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Adobe XD",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "AngularJS",
+        "specializations": {
+          "Expert": true,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": true
+        }
+      },
+      {
+        "name": "ASP.NET",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Azure",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Blockchain",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "CA Deployment",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Claromantis",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Communication Skills",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Coral Draw",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Cypress",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Digital Marketing",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Dynamic CRM",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Facebook App (FBML)",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Flutter",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "HubSpot",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "iOS",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "J-meter",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Kentico",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Linq, Entity Framework",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Magento",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "MEAN",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Mongo db",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Node",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Odoo",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Open Cart",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Penetration Testing",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "PKI",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "PPC",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Python",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "React Native",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "ROR",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "SE3",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "SEO",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Smarty",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Soap XML",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Sugar CRM",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Titanium",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      },
+      {
+        "name": "Unity Photon",
+        "specializations": {
+          "Expert": false,
+          "Intermediate": false,
+          "Beginner": false,
+          "Interested": false
+        }
+      }
+    ]
+}

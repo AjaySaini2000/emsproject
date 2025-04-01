@@ -1,14 +1,13 @@
-import { useState } from 'react'
 
 import './App.css'
-import Dashboard from './pages/Dashboard'
+import AllRoutes from './components/routers/AllRoutes'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-     <Dashboard/>
+     <AllRoutes/>
+     
     </>
   )
 }

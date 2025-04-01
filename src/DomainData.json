@@ -1,0 +1,241 @@
+{
+    "domains": [
+      {
+        "category": "Accounts",
+        "selected": false
+      },
+      {
+        "category": "Advertising",
+        "selected": false
+      },
+      {
+        "category": "B2B Solutions",
+        "selected": false
+      },
+      {
+        "category": "B2C Solutions",
+        "selected": false
+      },
+      {
+        "category": "Booking Engine",
+        "selected": false
+      },
+      {
+        "category": "Business Expert Solutions",
+        "selected": false
+      },
+      {
+        "category": "Comparison Website",
+        "selected": false
+      },
+      {
+        "category": "CRM",
+        "selected": true
+      },
+      {
+        "category": "Education & e-Learning",
+        "selected": false
+      },
+      {
+        "category": "IT & Technology",
+        "selected": true
+      },
+      {
+        "category": "Logistic",
+        "selected": false
+      },
+      {
+        "category": "Medical & Healthcare",
+        "selected": false
+      },
+      {
+        "category": "Photography",
+        "selected": false
+      },
+      {
+        "category": "Retail",
+        "selected": false
+      },
+      {
+        "category": "Sports",
+        "selected": false
+      },
+      {
+        "category": "Travel & Hospitality",
+        "selected": false
+      },
+      {
+        "category": "Jewellery",
+        "selected": false
+      },
+      {
+        "category": "Logo Samples",
+        "selected": false
+      },
+      {
+        "category": "Migration",
+        "selected": false
+      },
+      {
+        "category": "On Demand Services",
+        "selected": false
+      },
+      {
+        "category": "Printing",
+        "selected": false
+      },
+      {
+        "category": "Retirement & Pension",
+        "selected": false
+      },
+      {
+        "category": "App Designs",
+        "selected": true
+      },
+      {
+        "category": "Banking & Finance",
+        "selected": false
+      },
+      {
+        "category": "Business law",
+        "selected": false
+      },
+      {
+        "category": "Charity & Fundraising",
+        "selected": false
+      },
+      {
+        "category": "Directories",
+        "selected": false
+      },
+      {
+        "category": "Entertainment",
+        "selected": false
+      },
+      {
+        "category": "Fashion/Lifestyle",
+        "selected": false
+      },
+      {
+        "category": "Informative",
+        "selected": false
+      },
+      {
+        "category": "Laundry / Lifestyle",
+        "selected": false
+      },
+      {
+        "category": "Manufacturing",
+        "selected": false
+      },
+      {
+        "category": "Music/DJ",
+        "selected": false
+      },
+      {
+        "category": "Online Ticket System",
+        "selected": false
+      },
+      {
+        "category": "Real Estate",
+        "selected": false
+      },
+      {
+        "category": "Rewards Program",
+        "selected": false
+      },
+      {
+        "category": "Social Networking",
+        "selected": false
+      },
+      {
+        "category": "Auction",
+        "selected": false
+      },
+      {
+        "category": "Banners - Posters",
+        "selected": false
+      },
+      {
+        "category": "Cars/Automotives",
+        "selected": false
+      },
+      {
+        "category": "Classified",
+        "selected": false
+      },
+      {
+        "category": "CMS",
+        "selected": false
+      },
+      {
+        "category": "e-Commerce",
+        "selected": true
+      },
+      {
+        "category": "ERP Applications",
+        "selected": false
+      },
+      {
+        "category": "Food & Drink",
+        "selected": false
+      },
+      {
+        "category": "Insurance",
+        "selected": false
+      },
+      {
+        "category": "Legal",
+        "selected": false
+      },
+      {
+        "category": "Marketing",
+        "selected": false
+      },
+      {
+        "category": "News & Media",
+        "selected": false
+      },
+      {
+        "category": "Payment Gateway",
+        "selected": true
+      },
+      {
+        "category": "Recruitment",
+        "selected": false
+      },
+      {
+        "category": "Security",
+        "selected": false
+      },
+      {
+        "category": "Specialities & Services",
+        "selected": false
+      },
+      {
+        "category": "Transportation",
+        "selected": false
+      },
+      {
+        "category": "Website Landing Pages",
+        "selected": false
+      },
+      {
+        "category": "Startup Solution",
+        "selected": false
+      },
+      {
+        "category": "Web Hosting",
+        "selected": false
+      },
+      {
+        "category": "Tools/Utility",
+        "selected": false
+      },
+      {
+        "category": "Website Designs",
+        "selected": false
+      }
+    ]
+  }
+  
